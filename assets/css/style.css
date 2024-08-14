@@ -493,9 +493,10 @@ section {
     }
 
     .home {
-        background-position: left;
         justify-content: center;
         text-align: center;
+        background-position-y: 217px;
+        background-size: contain;
     }
 
     .home .content h3 {
@@ -504,6 +505,14 @@ section {
 
     .home .content p {
         font-size: 1.5rem;
+    }
+
+    .review .box-container {
+        display: block;
+    }
+
+    .review .box-container .box:not(:last-child) {
+        margin-bottom: 1.5rem;
     }
 }
 
