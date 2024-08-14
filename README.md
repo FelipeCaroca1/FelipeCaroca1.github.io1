@@ -35,6 +35,6 @@ Además ofrece una vista a través de "google.maps" con la dirección real de do
 Para finalizar, en esta sección encontramos nuevamente el menu del `navbar` que al apretar cualquiera de las pestañas te dirige al apartado seleccionado.
 Y también los iconos de diferentes redes sociales con el fin de que al apretarlos, redireccionen a dicha página para que el usuario tenga una mejor visión del servicio.
 
-## Esta págino es responsiva.
+## Esta página es responsiva.
 
 
