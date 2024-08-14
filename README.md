@@ -1,5 +1,5 @@
 ﻿## Landing page
-Proyecto creado con HTML, CSS y JavaScript. Es una página de aterrizaje sobre servicios de clases de Danza.
+Proyecto creado con HTML, CSS y JavaScript. 
 Esta página se trata sobre una persona que realiza diferentes clases de danza. Su especialidad son los ritmos urbanos, pero según las reseñas de personas que frecentuan este espacio, no es solo un lugar donde aprender a bailar, sino que también es un momento de reencuentro con ellos mismos, lo que lo lleva a ser un espacio terapeutico para todos.
 
 ## Modo de uso
